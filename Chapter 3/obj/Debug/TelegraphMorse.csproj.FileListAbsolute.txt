@@ -1,0 +1,7 @@
+D:\Projects\Chapter 3\Chapter 3\bin\Debug\Chapter 3.exe.config
+D:\Projects\Chapter 3\Chapter 3\bin\Debug\Chapter 3.exe
+D:\Projects\Chapter 3\Chapter 3\bin\Debug\Chapter 3.pdb
+D:\Projects\Chapter 3\Chapter 3\obj\Debug\TelegraphMorse.csproj.CoreCompileInputs.cache
+D:\Projects\Chapter 3\Chapter 3\obj\Debug\Chapter 3.exe
+D:\Projects\Chapter 3\Chapter 3\obj\Debug\Chapter 3.pdb
+D:\Projects\Chapter 3\Chapter 3\obj\Debug\TelegraphMorse.csprojAssemblyReference.cache
